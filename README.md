@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! My name is Arthur! 👋
+I'm mechanical engineering student, with passion for technology!
 
-<!--
-**ArthurL13/ArthurL13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Minhas Techs em desenvolvimento
+<div style="display: inline">
+<img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+<img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Socials
+<a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
+<img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
