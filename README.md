@@ -8,7 +8,7 @@ I'm mechanical engineering student, with passion for technology!
 </div>
 
 ### 🎲 Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurL13&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurL13&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurL13&layout=compact)
 
 ### 🌎 Socials
 <a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
