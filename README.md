@@ -9,8 +9,8 @@ I'm mechanical engineering student, with passion for technology!
 
 ### 🎲 Github stats
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ArthurL13&show_icons=true&theme=swift" alt="ArthurL13's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurL13&layout=compact&theme=swift" alt="ArthurL13's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=arthurloriato&show_icons=true&theme=swift" alt="arthurloriato's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurloriato&layout=compact&theme=swift" alt="arthurloriato's most languages"/>
 </p>
 
 ### 🌎 Socials
